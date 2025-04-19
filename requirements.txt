@@ -1,0 +1,11 @@
+pytesseract==0.3.10
+Pillow==10.0.0
+pdf2image==1.16.3
+spacy==3.5.3
+langdetect==1.0.9
+googletrans==3.1.0a0
+numpy>=1.26.0
+python-dateutil>=2.8.2
+pandas>=2.0.3
+pydantic>=2.5.2
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl 
